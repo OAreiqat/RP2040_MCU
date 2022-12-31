@@ -1,9 +1,41 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND",
+      "/GPIO0",
+      "/GPIO1",
+      "/GPIO2",
+      "/GPIO3",
+      "/GPIO4",
+      "/GPIO5",
+      "/GPIO6",
+      "/GPIO7",
+      "/GPIO8",
+      "/GPIO9",
+      "/GPIO10",
+      "/GPIO11",
+      "/GPIO12",
+      "/GPIO13",
+      "/GPIO14",
+      "/GPIO15",
+      "/GPIO16",
+      "/GPIO17",
+      "/GPIO18",
+      "/GPIO19",
+      "/GPIO20",
+      "/GPIO21",
+      "/GPIO22",
+      "/GPIO23",
+      "/GPIO24",
+      "/GPIO25",
+      "/GPIO26",
+      "/GPIO27",
+      "/GPIO28",
+      "/GPIO29"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -62,7 +94,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffdffdf_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
