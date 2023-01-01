@@ -3600,7 +3600,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x18") (at 260.35 130.81 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid f88ddc0f-f1c9-4b51-a90d-42f8544e5925)
     (property "Reference" "J3" (id 0) (at 262.89 130.8099 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3608,7 +3608,7 @@
     (property "Value" "Conn_01x18" (id 1) (at 262.89 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical" (id 2) (at 260.35 130.81 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical" (id 2) (at 262.89 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 260.35 130.81 0)
